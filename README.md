@@ -4,7 +4,6 @@
 </a>
 
 [![GitHub followers](https://img.shields.io/github/followers/shoaibahmed9138.svg?style=social&label=Follow)](https://github.com/shoaibahmed9138?tab=followers)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shoaibahmed9138.shoaibahmed9138)
 
 - 🔭 I'm a CSBS UG Student at SJCE (JSS STU), Mysuru (2023)

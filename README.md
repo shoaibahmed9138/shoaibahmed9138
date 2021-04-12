@@ -11,5 +11,14 @@
 - 📫 How to reach me: shoaibahmed9138@gmail.com
 - 😄 Pronouns: He/ His
 
+## Github Stats
+<p align="left>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shoaibahmed9138)
-
+</p>
+          
+## Top languages used:
+<p align="right">
+<a href = "https://github.com/shoaibahmed9138">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=shoaibahmed9138&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+ </a>
+</p>

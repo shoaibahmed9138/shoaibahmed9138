@@ -13,6 +13,6 @@
 
 <hr>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shoaibahmed9138)
+![AGitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibahmed9138)](https://github.com/anuraghazra/github-readme-stats)
       
 <hr>

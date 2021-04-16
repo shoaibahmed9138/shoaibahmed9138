@@ -13,6 +13,6 @@
 
 <hr>
 
-![AGitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibahmed9138)]
+![AGitHub stats](https://github-readme-stats.vercel.app/api?username=shoaibahmed9138&theme=radical&show_icons=true)]
       
 <hr>

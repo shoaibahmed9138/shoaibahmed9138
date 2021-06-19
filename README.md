@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shoaib
+### Hi there, I'm Shoaib!
 <a href="https://www.linkedin.com/in/shoaib-ahmed-s-990b301a9/">
   <img align="left" alt="Shoaib's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>

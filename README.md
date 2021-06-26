@@ -10,17 +10,4 @@
 - 📫 How to reach me: shoaibahmed9138@gmail.com
 - 😄 Pronouns: He/ His
 
-<br>
-
-#### Languages and Tools:
-
-
-<br>
-<a href="https://github.com/shoaibahmed9138">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibahmed9138&theme=dark&hide=makefile,C&layout=compact" />
-</a> 
-<a href="https://github.com/shoaibahmed9138">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaibahmed9138&include_all_commits=true&show_icons=true&theme=dark&line_height=27&count_private=true" alt="Pranav Bedre's github stats">
-</a>
-
 

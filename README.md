@@ -16,11 +16,11 @@
 
 
 <br>
+
 <a href="https://github.com/shoaibahmed9138">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibahmed9138&theme=dark&hide_langs_below=1" height="220px"/>
-</a>
-<a href="https://github.com/shoaibahmed9138">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaibahmed9138&show_icons=true&theme=dark&line_height=27" alt="Shoaib's github stats" height="220px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaibahmed9138&include_all_commits=true&show_icons=true&theme=dark&line_height=27&count_private=true" alt="Pranav Bedre's github stats">
 </a>
 
-
+<a href="https://github.com/ghpranav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibahmed9138&theme=dark&hide=makefile,C&layout=compact" />
+</a>

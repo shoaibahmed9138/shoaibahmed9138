@@ -9,9 +9,7 @@
 <a href="mailto:shoaibahmed9138@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/shoaibahmed9138">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibahmed9138&theme=dark&hide=makefile,C&layout=compact" />
-</a>
+
 - 🔭 I'm a CSBS UG Student at SJCE (JSS STU), Mysuru (2023)
 - 📫 How to reach me: shoaibahmed9138@gmail.com
 - 😄 Pronouns: He/ His

@@ -1,4 +1,4 @@
-<h1> Hey there, I'm Shoaib!🙌</h1>
+<h1> Hey there, I'm Shoaib!👋</h1>
 
 
 

@@ -11,7 +11,7 @@
 </a>&nbsp;&nbsp;
 
 - 🔭 I'm an aspiring Software Engineer interested in everything tech-related
-- 😄 Pronouns: He/ Him
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: shoaibahmed9138@gmail.com
 
 

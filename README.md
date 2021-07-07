@@ -14,4 +14,4 @@
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: shoaibahmed9138@gmail.com
 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibahmed9138&theme=dark&hide=makefile,C&layout=compact
